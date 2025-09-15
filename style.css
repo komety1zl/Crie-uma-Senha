@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Creepster&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
 :root{
 --branco: white;
---cor-de-fundo: #000004d2; 
---fundo-senha: #01086e;
---fundo-texto: #01086e;
---borda: #1f05a5;
+--cor-de-fundo: #000000; 
+--fundo-senha: #010324;
+--fundo-texto: #010324;
+--borda: #0c0143;
 --fonte-principal: 'Bitcount prop Single';
 }
 body{
